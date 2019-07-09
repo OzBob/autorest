@@ -63,11 +63,11 @@ Start by reading the documentation for using AutoRest:
 
 Get yourself up and coding in AutoRest
 
-- [Developer Workstation Requirements](./docs/developer/workstation.md) - what do you need to install to start working with the AutoRest code
-- [AutoRest Extensibility](./docs/developer/architecture/AutoRest-extension.md) and [protocol](./docs/developer/architecture/AutoRest-extension-protocol.md) documentation
-- [Working on AutoRest core](./docs/developer/autorest-core.md) - compiling/testing AutoRest core using the build scripts
-- [Working on an AutoRest extension](./docs/developer/autorest-extension.md) - creating and testing AutoRest extensions
-- [AutoRest repositories and packages](./docs/trampoline.md) - all maintained repositories and packages on one page
+- [Developer Workstation Requirements](.attic/docs/developer/workstation.md) - what do you need to install to start working with the AutoRest code
+- [AutoRest Extensibility](.attic/docs/developer/architecture/AutoRest-extension.md) and [protocol](./docs/developer/architecture/AutoRest-extension-protocol.md) documentation
+- [Working on AutoRest core](.attic/docs/developer/autorest-core.md) - compiling/testing AutoRest core using the build scripts
+- [Working on an AutoRest extension](.attic/docs/developer/autorest-extension.md) - creating and testing AutoRest extensions
+- [AutoRest repositories and packages](.attic/docs/trampoline.md) - all maintained repositories and packages on one page
 
 Some related information:
 - [Validation Rules & Linting](https://github.com/Azure/azure-openapi-validator/blob/master/docs/readme.md) - about the validation rules in AutoRest
