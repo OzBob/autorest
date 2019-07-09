@@ -536,7 +536,19 @@
           "x-ms-enum": {
             "name": "Reason",
             "modelAsString": false,
-            "oldModelAsString": false
+            "oldModelAsString": false,
+			"values": [
+				{
+					"value": 0,
+					"description": "AccountNameInvalid",
+					"name": "AccountNameInvalid"
+				},
+				{
+					"value": 1,
+					"description": "AlreadyExists",
+					"name": "AlreadyExists"
+				}
+			]
           }
         },
         "message": {
